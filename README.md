@@ -1,4 +1,4 @@
-# 👋 Hola, soy Doc Caballero 
+# 👋 Hola, soy Doc Caballero / Jaime Caballero
 
 ### 🚀 CTO · AI Engineer · Full-Stack Developer · DevOps · Infra · WhatsApp Business API Expert
 
@@ -10,88 +10,95 @@ Mis proyectos integran:
 - 🧪 Automatización & QA — pipelines con Go, Python, Postgres  
 - ☁️ Infraestructura — servidores dedicados, WSL2, Ubuntu, Docker, networking  
 - 💬 Integraciones — WhatsApp Business API, HubSpot, Twilio, ElevenLabs  
-- 🌍 Multiplataforma — Mac ARM, Windows, Linux, virtualización (UTM, VirtualBox)  
+- 🌍 Entornos multiplataforma — Mac ARM, Windows, Linux, virtualización  
 
 ---
 
-## 🧠 Mis stacks favoritos
+## 🧠 Stacks & Tecnologías
 
 ### Backend
 - Go (Golang)
 - Python
 - Node.js / TypeScript
-- Postgres / Redis / Kafka
+- PostgreSQL / Redis
+- WebSockets / SSE / gRPC
 
 ### Infra / DevOps
-- Docker & Docker Compose
-- Traefik / Nginx
-- Keepalived
-- WSL2 / Linux
-- Servers Bare-Metal & Cloud
+- Docker & Docker Compose  
+- Nginx / Traefik  
+- Keepalived & Failover HA  
+- Multi-GPU computing  
+- Bare-metal deployment & local hosting con IP pública
 
 ### Frontend
-- Next.js
-- React
-- TailwindCSS
-- WordPress (hosting multi-tenant)
+- Next.js  
+- React  
+- TailwindCSS  
+- Webhooks + APIs REST/GraphQL
 
-### IA & Procesamiento
-- Ollama
-- Whisper
-- OpenAI Realtime / Assistants
-- Fine-tuning / Embeddings
+### Inteligencia Artificial
+- Ollama — ejecución y manejo de modelos en GPU  
+- Qwen / Llama / GPT  
+- Embeddings & semantic search  
+- Voice AI — Speech-to-Speech pipelines  
+- Fine-tuning & Prompt Engineering  
 
 ---
 
-## 🛠️ Lo que construyo
+## 🛠️ Lo que hago
 
 ✔ APIs de alto rendimiento en Go  
-✔ Procesos automáticos para grandes bases de datos  
-✔ Dashboards de calidad de datos (QA)  
-✔ Chatbots con IA y voz en tiempo real  
-✔ Integraciones corporativas (HubSpot, Meta, Twilio)  
-✔ Sistemas de failover con IP virtual  
-✔ Hosting de múltiples WordPress con SSL y routing por dominio  
-✔ Sistemas de multigpu scheduling para modelos de IA locales  
+✔ Sistemas autónomos basados en eventos y webhooks  
+✔ Dashboards de auditoría de datos y QA  
+✔ Chatbots con voz en tiempo real  
+✔ Procesamiento de grandes volúmenes de datos  
+✔ Integración profunda con Meta / WhatsApp Business API  
+✔ Automatización de procesos internos corporativos  
+✔ Sistemas de failover automático IPv4 estático  
+✔ Redes internas multi-servidor con túneles seguros  
+✔ Orquestación Docker multi-servicio  
 
 ---
 
+## 🧩 Filosofía de desarrollo
+
+> “La infraestructura es un producto; la IA es un copiloto.  
+> Si algo se puede automatizar: se automatiza.”
+
 ---
 
-## 📊 Mis métricas
+## 📍 Actualmente trabajando en…
 
-Si quieres puedo agregar badges como:
+- IA conversacional telefónica en tiempo real  
+- Enrutamiento y escalamiento inteligente para servidores Ollama  
+- Orquestación de clusters de Postgres para ingestión de data masiva  
+- Integraciones de CRM con IA y flujos autónomos  
+- Sistemas de rating y scoring inteligente con aprendizaje progresivo  
+
+---
+
+## 📊 Badges & herramientas
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/Meta%20WhatsApp%20API-25D366?logo=whatsapp&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Meta API](https://img.shields.io/badge/Meta%20API-0467DF?logo=meta&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white)
 
 ---
 
-## 🔥 Actualmente trabajando en...
+## 🌐 Contacto
 
-- Integración de voz en tiempo real usando `gpt-realtime-mini`
-- Sistema de llamadas telefónicas automáticas con IA conversacional
-- Enrutamiento inteligente para clusters Ollama multi-GPU
-- Optimización de Postgres para integración masiva de datos
+💼 LinkedIn — (https://www.linkedin.com/in/doccaballero/)  
 
 ---
 
-## 💬 Contacto
+## 🧠 TL;DR
 
-Si quieres que incluya esto:
-
-📧 Email (opcional)  
-🌐 LinkedIn (opcional)  
-🌍 Web personal (opcional)  
-🐦 Twitter / X (opcional)
-
----
-
-# 🧩 Nota final
-
-> Siempre estoy iterando, optimizando y automatizando.  
-> No hay nada demasiado grande o demasiado complejo — sólo un problema esperando ser modelado.
+> CTO pragmático, obsesionado con IA, infraestructura, automatización y rendimiento.  
+> Me gustan los retos que requieren diseño sistémico, debugging complejo y creatividad técnica.
 
