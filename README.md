@@ -56,16 +56,6 @@ Mis proyectos integran:
 
 ---
 
-## 🗂 Algunos repositorios (resumen general)
-
-*(Tú puedes luego ajustar estas líneas para cada repo real)*
-
-- `go-api-docker` — API backend en Go con contenedorización y despliegue productivo
-- `scripts-remote` — ejecución remota de scripts Python vía REST, con logging y control de runtime
-- `whatsapp-sky` — aplicación Next.js para mensajería WhatsApp Business con SSE
-- `qa_tickets_validador` — dashboard de calidad de tickets + auditorías automáticas
-- `ollama-servers` — setup de múltiples servidores Ollama con GPUs dedicadas
-
 ---
 
 ## 📊 Mis métricas
